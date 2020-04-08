@@ -1,0 +1,80 @@
+.login-div{
+    margin: auto;
+    height: 350px;
+    align-items: center;
+    justify-content: center;
+    background-color:burlywood;
+    width:30%;
+    position: relative;
+    top:50px;
+}
+.form-div{
+    position: absolute;
+    background-color:lightgray;
+    height: 650px;
+    width : 1350px;
+    overflow: hidden;
+}
+.register-contents-div{ 
+    margin: auto;
+    height: 350px;
+    align-items: center;
+    justify-content: center;
+    background-color:burlywood;
+    width:30%;
+    position: relative;
+    top:50px;
+    display: none;
+}
+.pre-register-div{
+    margin: auto;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    background-color:burlywood;
+    width:30%;
+    position: relative;
+    top:100px;    
+}
+.label-style{
+    
+   position: relative;
+   left:80px;
+   
+}
+.textbox-style{
+    position: relative;
+    width:150px;
+    height: 20px;
+}
+.login-button-style{
+    position: relative;
+    top: 170px;
+    left : 130px;
+    width : 150px;
+    height: 30px;
+    background-color:lightgray;
+}
+.info-style{
+    position: absolute;
+    color:red;
+    top : 580px;
+    left:10px;
+    font-size: large;
+}
+.register-button{
+    position: relative;
+    top : 40px;
+    width : 200px;
+    height: 30px;
+    left:110px;
+    background-color:lightgray;
+}
+.regiter-button-style{
+    position: absolute;
+    top: 250px;
+    left : 130px;
+    width : 150px;
+    height: 30px;
+    background-color:lightgray;
+}
